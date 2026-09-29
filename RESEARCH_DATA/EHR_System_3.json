@@ -1,0 +1,2 @@
+patient_id|encounter_data
+PT-003|{"date":"2023-06-01","dx":{"main":"E11","additional":["I10"]},"therapy":[{"name":"metformin","dose":"850"}]}

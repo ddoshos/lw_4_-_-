@@ -1,0 +1,2 @@
+PatientCode;Data_Visit;ComplaintsText;PrimaryDx;SecondaryDx;MedicationList;Weight_kg;Height_cm
+PT-002;2023-04-10;"Нет жалоб, выявлено при диспансеризации";"Diabetes mellitus typus II";"I10";"Metformini 500";94;178

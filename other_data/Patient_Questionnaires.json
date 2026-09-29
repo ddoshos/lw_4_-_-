@@ -1,0 +1,10 @@
+{
+  "PT-001": {
+    "EQ5D_2023": {"mobility": 1, "selfcare": 1, "activities": 2, "pain": 2, "anxiety": 1},
+    "EQ5D_2024": {"mobility": 1, "selfcare": 1, "activities": 1, "pain": 1, "anxiety": 2},
+    "DiabetesDistress": 45
+  },
+  "PT-002": {
+    "EQ5D_2023": {"mobility": 2, "selfcare": 1, "activities": 3, "pain": 2, "anxiety": 3}
+  }
+}

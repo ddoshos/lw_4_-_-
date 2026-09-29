@@ -1,0 +1,4 @@
+PatientID,VisitDate,Adiponectin_ug_mL,Leptin_ng_mL,CRP_mg_L,IL6_pg_mL
+PT-001,14.03.2023,4.2,25.6,3.2,4.1
+PT-002,09.04.2023,3.1,34.2,5.8,7.3
+PT-003,31.05.2023,6.8,18.9,1.2,2.4
